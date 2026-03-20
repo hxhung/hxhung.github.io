@@ -1,1 +1,10 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hxhung.toanthpt",
+    "sha256_cert_fingerprints": [
+      "17:B8:40:25:CB:E9:0B:E0:AD:8B:9B:EB:93:E3:2B:2A:EC:6E:C6:04:3B:26:B0:9D:77:FE:9F:44:A8:CE:9D:A1"
+    ]
+  }
+}]
